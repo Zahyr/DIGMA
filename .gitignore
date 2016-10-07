@@ -36,6 +36,10 @@
 ehthumbs.db
 Thumbs.db
 
+#########
+# Unity #
+#########
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
